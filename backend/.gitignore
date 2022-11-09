@@ -31,10 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-# IDEs and editors
-.idea/
-.target/
-
-## Environment ##
-application-dev.yml
